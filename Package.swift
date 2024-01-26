@@ -5,7 +5,7 @@ import PackageDescription
 let package = Package(
     name: "OpenMeteoSdk",
     platforms: [
-        .iOS(.v11),
+        .iOS(.v15),
         .macOS(.v10_14),
     ],
     products: [
